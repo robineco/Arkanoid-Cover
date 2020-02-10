@@ -1,2 +1,1 @@
-# Arkanoid-Cover
-Just a simple python game
+# Some simple python games
